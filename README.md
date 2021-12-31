@@ -9,9 +9,9 @@ Here's the guide published by felizk so that you can make your own config file :
 
 
 ## Currently available configuration layouts:
-QWERTY (=English - default configuration)  
-AZERTY (=French)  
-QWERTZ (=German)  
+QWERTY (default configuration)  
+AZERTY  
+QWERTZ  
 
 
 ## How to use:
