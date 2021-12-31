@@ -1,5 +1,5 @@
-# ControllerCompanion_ChatpadBindings.cfg
-##### You will find here some bindings config files for the Xbox 360 controller chatpad to use with [Controller Companion](http://controllercompanion.com/)
+# README
+#### You will find here some bindings config files for the Xbox 360 controller chatpad to use with [Controller Companion](http://controllercompanion.com/)
 
 Controller Companion is an awesome software developed by [felizk](https://twitter.com/felizk) from "KogaTech", a dannish software company. 
 This software allows you to replace your mouse and keyboard by any xbox 360 controller to navigate your computer. It is [available on steam](https://store.steampowered.com/app/367670/Controller_Companion/) for 2€ only (a real bargain).
