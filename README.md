@@ -16,6 +16,6 @@ Here's the guide published by felizk so that you can make your own config file :
 
 ## How to use:
 The configuration file must be named **_ChatpadBindings.cfg_** and placed under **[C:\Users\Jerome\AppData\Local\ControllerCompanion]**
-
-
-Don't hesitate to submit your own configuration file.
+  
+  
+***Don't hesitate to submit your own configuration file.***
